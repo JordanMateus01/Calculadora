@@ -3,7 +3,7 @@
 </p>
 
 ## 🖥️ Projeto
-Esse é um projeto Web Responsivo, de uma calculadora que realiza as 4 principais operações matemáticas (+, -, *, /), além da exponenciação.
+Esse é um projeto Web Responsivo, de uma calculadora que realiza as 4 principais operações matemáticas (+, -, *, /) e exponenciação.
 
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
