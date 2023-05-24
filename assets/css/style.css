@@ -20,9 +20,9 @@ body{
 }
 
 .container {
-    max-width: 640px;
-    margin: 50px auto;
-    background: #fff;
+    max-width: 400px;
+    margin: 130px auto;
+    background: #c1baba;
     padding: 20px;
     border-radius: 10px;
 }
@@ -59,7 +59,8 @@ form button:hover{
 }
 
 .calculadora{
-    width: 400px;
+    width: 100%;
+
 }
 
 .display {
